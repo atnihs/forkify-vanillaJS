@@ -1,4 +1,4 @@
-# Forkify-App
+# Forkify-App with VanillaJS
 [Live Link](https://forkify-vanillajs-shinta.netlify.app/)
 
 ### Project Introduction
