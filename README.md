@@ -30,3 +30,8 @@ Forkify is a recipe web app using the Forkify API to allow users to search, view
 * Create your own recipes and store them as user recipes(use a special icon).
 
 * LocalStorage keeps the data when users exit the app.
+
+
+## Acknowledgments
+
+- **Jonas Schmedtmann**, at [CodingHeroes.io](http://codingheroes.io/index.html), for making this JavaScript course available on [Udemy](https://www.udemy.com/the-complete-javascript-course)
